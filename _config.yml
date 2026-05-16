@@ -3,3 +3,5 @@ description: カップルのデート代の貸し借りを記録して自動精�
 theme: jekyll-theme-cayman
 markdown: kramdown
 permalink: pretty
+plugins:
+  - jekyll-redirect-from

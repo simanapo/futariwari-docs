@@ -1,5 +1,6 @@
 ---
 title: ふたりわり
+redirect_to: https://futariwari.com/
 ---
 
 # ふたりわり

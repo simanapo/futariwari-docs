@@ -1,5 +1,6 @@
 ---
 title: プライバシーポリシー – ふたりわり
+redirect_to: https://futariwari.com/privacy/
 ---
 
 # プライバシーポリシー

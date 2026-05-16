@@ -1,5 +1,6 @@
 ---
 title: サポート – ふたりわり
+redirect_to: https://futariwari.com/support/
 ---
 
 # サポート
